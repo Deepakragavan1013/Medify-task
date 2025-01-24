@@ -1,6 +1,4 @@
-To create a README file for your project, you can follow this structure to explain the steps to build, run, and use the Docker container. Below is an example README file tailored to your project setup:
 
----
 
 # GenAI Docker Application
 
